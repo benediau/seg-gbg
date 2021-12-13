@@ -4,7 +4,7 @@ title: MAPS
 ---
 
 
-# MAPS
+
 
 ## *Migratory patterns and productivity potential of juvenile sea trout*
 <br/>
