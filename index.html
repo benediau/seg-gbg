@@ -3,6 +3,16 @@ layout: default
 title: Home
 ---
 
+<div>
+  <img src="https://user-images.githubusercontent.com/96004332/145879570-1fa0aac2-52a4-41fe-a3d3-e4eda7515d14.png" />
+
+  <blockquote> *In SEG we study dispersal patterns and ecology in salmonids. We also study interactions between salmonids and the freshwater pearl mussel*</blockquote>
+
+  <p>Led by Johan Höjesjö the group consists of post-docs, PhD students and Masters students interested in a wide range of topics surrounding salmonids. We study the behaviour and ecology	of salmonids in	the	field and the lab, and we adress both basic and applied problems. Although the work is focused primarily in Sweden the group conducts studies across Europe and collaborates with several international groups.</p>
+
+  <p>The main species of interest is the native brown trout and various aspects of its life history and ecology; from seaward migration to interactions with the invasive brook trout.</p>
+</div>
+
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
@@ -14,7 +24,7 @@ title: Home
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
 
-    {{ post.content }}
+    {{ post.content | truncatewords: 20 }}
   </div>
   {% endfor %}
 </div>
