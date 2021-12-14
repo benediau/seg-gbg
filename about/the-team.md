@@ -5,5 +5,5 @@
 ## Benedikte Austad
 ## Mattias Larsson
 ## Matilda Ahvenainen
-## Pernilla Larsson
+## Pernilla Hansson
 ## Sebastian Sandberg
