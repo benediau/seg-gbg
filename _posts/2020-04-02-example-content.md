@@ -1,8 +1,14 @@
 ---
 layout: post
-title: Example content
+title: NOBROOK autumn 2021
+categories: nobrook
 ---
 
+Hello, world
+
+<!-- more -->
+
+You can't see this message via index.html
 
 <div class="message">
   Howdy! This is an example blog post that shows several types of HTML content supported in this theme.

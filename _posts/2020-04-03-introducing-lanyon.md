@@ -1,9 +1,12 @@
 ---
 layout: post
-title: Introducing Lanyon
+title: MAPS Autumn 2021
+categories: maps
 ---
 
-Lanyon is an unassuming [University of Gotheburg](http://gu.se) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+Lanyon is an unassuming [University of Gothenburg](http://gu.se) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+
+<!-- more -->
 
 ### Built on Poole
 

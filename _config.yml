@@ -6,12 +6,13 @@ url:                 'https://benediau.github.io'
 baseurl:             '/seg-gbg'
 paginate:            5
 permalink:           pretty
+excerpt_separator:   <!--more-->
 
 # About/contact
-author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+# author:
+#   name:              Mark Otto
+#   url:               https://twitter.com/mdo
+#   email:             markdotto@gmail.com
 
 # Gems
 plugins:

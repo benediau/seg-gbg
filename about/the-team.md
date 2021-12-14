@@ -1,3 +1,8 @@
+---
+layout: page
+title: The Team 
+---
+
 ## Johan Höjesjö
 ## Magnus Wallerius Lovén
 ## Niklas Wengström

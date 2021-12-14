@@ -4,7 +4,7 @@ title: Home
 ---
 
 <div>
-  <img src="https://user-images.githubusercontent.com/96004332/145879570-1fa0aac2-52a4-41fe-a3d3-e4eda7515d14.png"  width="200" height="200" />
+  <img style="display:block;width:160px;" src="https://user-images.githubusercontent.com/96004332/145879570-1fa0aac2-52a4-41fe-a3d3-e4eda7515d14.png" />
 
   <blockquote> In SEG we study dispersal patterns and ecology in salmonids. We also study interactions between salmonids and the freshwater pearl mussel</blockquote>
 
@@ -12,7 +12,7 @@ title: Home
 
   <p>The main species of interest is the native brown trout and various aspects of its life history and ecology; from seaward migration to interactions with the invasive brook trout.</p>
 </div>
-v
+
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
@@ -24,7 +24,11 @@ v
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
 
-    {{ post.content | truncatewords: 20 }}
+    {{ post.excerpt }}
+
+    <div style="text-align:right;">
+      <a href="{{ post.url | absolute_url }}" style="color:#000;"> Read More </a>
+    </div>
   </div>
   {% endfor %}
 </div>
