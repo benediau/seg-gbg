@@ -5,11 +5,9 @@
 
   <body>
 
-    {% include sidebar.html %}
-
     <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
          content to avoid any CSS collisions with our real content. -->
-    <div class="wrap">
+    <!-- <div class="wrap">
       <div class="masthead">
         <div class="container">
           <h3 class="masthead-title">
@@ -20,22 +18,29 @@
       </div>
 
       <div class="container content">
-        {{ content }}
       </div>
-    </div>
+    </div> -->
 
-    <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+    {{ content }}
 
-    
+    {% include sidebar.html %}
+
+    <!-- <label for="sidebar-checkbox" class="sidebar-toggle"></label> -->
+    <button class="nav-button hamburger hamburger--slider" type="button">
+      <span class="hamburger-box">
+        <span class="hamburger-inner"></span>
+      </span>
+    </button>
+
     <script src='{{ site.baseurl }}/public/js/script.js'></script>
     <script type="module">
       import Swiper from 'https://unpkg.com/swiper@7/swiper-bundle.esm.browser.min.js';
 
-      if (document.querySelectorAll('.swiper').length > 0) {   
+      if (document.querySelectorAll('.swiper').length > 0) {
         const swiper = new Swiper('.swiper', {
           direction: 'horizontal',
           loop: true,
-          
+
           pagination: {
             el: '.swiper-pagination',
           },
@@ -46,6 +51,20 @@
           },
         });
       }
-      </script>
+    </script>
+    <script type="module">
+      const menuBtn = document.querySelector('.nav-button');
+      const sidebar = document.querySelector('.sidebar');
+
+      function toggleMenu() {
+        menuBtn.classList.toggle('is-active');
+        sidebar.classList.toggle('open');
+        document.body.classList.toggle('sidebar-open');
+      }
+
+      if (menuBtn && sidebar) {
+        menuBtn.addEventListener('click', toggleMenu);
+      }
+    </script>
   </body>
 </html>
