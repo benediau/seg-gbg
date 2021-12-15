@@ -26,6 +26,26 @@
 
     <label for="sidebar-checkbox" class="sidebar-toggle"></label>
 
+    
     <script src='{{ site.baseurl }}/public/js/script.js'></script>
+    <script type="module">
+      import Swiper from 'https://unpkg.com/swiper@7/swiper-bundle.esm.browser.min.js';
+
+      if (document.querySelectorAll('.swiper').length > 0) {   
+        const swiper = new Swiper('.swiper', {
+          direction: 'horizontal',
+          loop: true,
+          
+          pagination: {
+            el: '.swiper-pagination',
+          },
+
+          navigation: {
+            nextEl: '.swiper-button-next',
+            prevEl: '.swiper-button-prev',
+          },
+        });
+      }
+      </script>
   </body>
 </html>

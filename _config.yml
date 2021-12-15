@@ -7,7 +7,6 @@ baseurl:             '/seg-gbg'
 paginate:            5
 permalink:           pretty
 excerpt_separator:   <!--more-->
-plugins:iis_slider_array: []
 
 # About/contact
 # author:

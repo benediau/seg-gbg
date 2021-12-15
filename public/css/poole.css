@@ -423,3 +423,12 @@ a.pagination-item:hover {
     border-bottom-right-radius: 4px;
   }
 }
+
+.swiper {
+  margin: 1rem 0;
+}
+
+.swiper img {
+  display: block;
+  margin: 0;
+}
