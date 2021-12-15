@@ -26,15 +26,10 @@ The overall aim of the NOBROOK project is to develop new methods for removal of 
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
 
-
-
     {{ post.excerpt }}
 
     <footer style="text-align:right;">
       <a href="{{ post.url | absolute_url }}" style="color:#000;"> Read More </a>
-
-     
-
     </footer>
   </section>
   {% endfor %}
