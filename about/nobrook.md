@@ -6,6 +6,8 @@ title: NOBROOK
 
 The overall aim of the NOBROOK project is to develop new methods for removal of the invasive brook trout and to evaluate the effect of removal on ecosystems. Through establishing several control populations of known phenotypical distribution and a combination of brown trout in allopatry and in sympatry with brook trout be able to compare and test different removal methods across species and phenotypical traits. The response and recovery of the ecosystem after removal will we examined by investigating the composition of benthic invertebrates and fish diets as well as the potential impact presence of brook trout may have on the interaction between brown trout and the endangered freshwater pearl mussel. The results will provide insights into the resilience of stream ecosystems and be helpful in efforts to restore and maintain the important ecosystem services and biodiversity connected to these habitats.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/33ojeSr5MmY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ---
 
