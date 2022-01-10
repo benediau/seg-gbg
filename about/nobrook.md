@@ -1,6 +1,7 @@
 ---
 layout: page
 title: NOBROOK
+order: 4
 ---
 ## *Evaluating removal methods of the invasive Brook trout and effects of removal on the ecosystem*
 
