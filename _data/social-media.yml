@@ -1,0 +1,13 @@
+email:
+  id: 'benedikte.austad@bioenv.gu.se'
+  href: 'mailto:'
+  title: 'Email'
+  fa-icon: 'far fa-envelope'
+
+
+twitter:
+  id: ''
+  href: 'https://www.twitter.com/seg_gbg'
+  title: 'Twitter'
+  fa-icon: 'fab fa-twitter'
+

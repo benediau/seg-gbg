@@ -32,7 +32,7 @@ team_members:
     
   - name: Madeleine Berry
     role: project lead
-    image: ""
+    image: "https://user-images.githubusercontent.com/96004332/148966353-f96c023c-b577-4464-a508-5fbbbe410ddc.jpg"
     excerpt: "I am the PhD student responsible for the MAPS project studying migration patterns in juvenile sea trout. "
     description: "My work involves multiple stream sites across Europe and is in close connection with WGTRUTTA a workgroup within ICES. My previous work also centered around juvenile salmonids, specifically their interactions with hydro-renewable energies. "
     email: ""
@@ -40,7 +40,7 @@ team_members:
   - name: Benedikte Austad
     role: project lead
     image: ""
-    excerpt: ""
+    excerpt: "I am the PhD student responsible for the NOBROOK project studying ecosystem effects of the invasive Brook trout in Sweden before and after removal. I have my master’s degree in marine biology and limnology from the University of Oslo. "
     description: ""
     email: ""
     

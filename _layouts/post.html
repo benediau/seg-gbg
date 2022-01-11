@@ -2,15 +2,17 @@
 layout: default
 ---
 
-<article class="page">
-  <header>
-    <h1 class="page-title">{{ page.title }}</h1>
-  </header>
-
-  <span class="post-date">{{ page.date | date_to_string }}</span>
-
-  {{ content }}
-</article>
+<main>
+  <article class="page">
+    <header>
+      <h1 class="page-title">{{ page.title }}</h1>
+    </header>
+  
+    <span class="post-date">{{ page.date | date_to_string }}</span>
+  
+    {{ content }}
+  </article>
+</main>
 
 <!-- {% if site.related_posts.size >= 1 %}
 <aside class="related">

@@ -99,7 +99,8 @@ body.sidebar-open main {
   height: 100%;
 }
 
-.sidebar-nav ul {
+.sidebar-nav ul,
+.social-media ul {
   margin: 0;
   padding: 0;
 
@@ -133,6 +134,27 @@ body.sidebar-open main {
   .sidebar-nav-item {
     font-size: 1.75rem;
   }
+}
+
+.social-media {
+  display: flex;
+  justify-content: center;
+
+  color: #262626;
+}
+
+.social-media ul {
+  display: flex;
+
+  list-style: none;
+
+  width: 80%;
+}
+
+.social-media a {
+  margin-right: 1rem;
+
+  color: inherit
 }
 
 .home .fullscreen-image {
