@@ -1,7 +1,7 @@
 ---
 layout: page
 title: News
-order: 4
+order: 5
 ---
 
 <div class="posts">
