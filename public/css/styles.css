@@ -224,6 +224,81 @@ body.sidebar-open main {
   margin: 0 auto;
 }
 
+.posts .post .post-title a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.posts .post .post-title {
+  margin: 1.5rem 0 0;
+}
+
+.posts .post .post-date {
+  display: block;
+  margin: 0 0 1rem;
+
+  font-size: 0.75rem;
+}
+
+.posts .post p {
+  margin: .75rem 0;
+}
+
+.team-member {}
+
+.team-member .team-member-name {
+  margin-bottom: 0;
+  font-size: 1.5rem;
+}
+
+.team-member .team-member-name h5 {
+  margin: 0;
+}
+
+.team-member .team-member-content {
+  display: flex;
+}
+
+.team-member .team-member-image {
+  margin-top: 1rem;
+  width: 40%;
+  max-width: 12.5rem;
+}
+
+.team-member .team-member-image img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.team-member .team-member-body {
+  margin-left: 1rem;
+  width: 100%;
+}
+
+@media (max-width: 30rem) {
+  .team-member .team-member-content {
+    flex-direction: column;
+  }
+
+  .team-member .team-member-image {
+    width: 100%;
+    max-width: 100%;
+  }
+
+  .team-member .team-member-name {
+    font-size: 1.25rem;
+  }
+
+  .team-member .team-member-body {
+    margin-left: 0;
+  }
+
+  .team-member .team-member-body p {
+    font-size: 0.875rem;
+  }
+}
+
 .swiper {
   margin: 2rem 0;
 
@@ -257,9 +332,9 @@ dd {
 /* Misc */
 hr {
   position: relative;
-  margin: 1.5rem 0;
+  margin: 2.5rem 0 1.5rem;
   border: 0;
-  border-top: 1px solid #eee;
+  border-top: 1px solid #444;
   border-bottom: 1px solid #fff;
 }
 

@@ -6,20 +6,20 @@ order: 2
 
 
 
-{% for team_member in site.team_members %}
-<section>
+{% for team_member in site.data.team.members %}
+<section class="team-member">
   <header>
-    <h2 style="margin-bottom: 0">{{ team_member.name }}</h2>
-    <!-- <h5 style="margin: 0">role: {{ team_member.role }}</h5> -->
+    <h3 class="team-member-name">{{ team_member.name }}</h3>
+    <!-- <h5 class="team-member-role">role: {{ team_member.role }}</h5> -->
   </header>
   
-  <div style="display: flex;">
+  <div class="team-member-content">
     {% if team_member.image != '' %}
-      <div style="margin-top: 1rem; width: 40%; max-width: 12.5rem;">
-        <img style="display: block; width: 100%; height: auto;" src="{{ team_member.image }}" />
+      <div class="team-member-image">
+        <img src="{{ team_member.image }}" />
       </div>
     {% endif %}
-    <div style="margin-left: 1rem; width: 100%;">
+    <div class="team-member-body">
       {% if team_member.excerpt != '' %}
         <p>{{ team_member.excerpt }}</p>
       {% endif %}
