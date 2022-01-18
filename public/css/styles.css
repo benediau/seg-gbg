@@ -157,8 +157,14 @@ body.sidebar-open main {
   color: inherit
 }
 
+@media (min-width: 48rem) {
+  .home {
+    display: flex;
+  }
+}
+
 .home .fullscreen-image {
-  position: fixed;
+  position: sticky;
   top: 0;
   left: 0;
   
@@ -200,7 +206,7 @@ body.sidebar-open main {
 
 @media (min-width: 48rem) {
   .home .content {
-    padding: 4rem 1.25rem 1rem calc(42% + 2rem);
+    padding: 4rem 2rem;
   }
 }
 

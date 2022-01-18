@@ -32,7 +32,7 @@
       </span>
     </button>
 
-    <script src='{{ site.baseurl }}/public/js/script.js'></script>
+    <!-- <script src='{{ site.baseurl }}public/js/script.js'></script> -->
     <script type="module">
       import Swiper from 'https://unpkg.com/swiper@7/swiper-bundle.esm.browser.min.js';
 
@@ -55,11 +55,21 @@
     <script type="module">
       const menuBtn = document.querySelector('.nav-button');
       const sidebar = document.querySelector('.sidebar');
+      const main = document.querySelector('main');
+      let isOpen = false;
 
       function toggleMenu() {
+        isOpen = !isOpen;
+
         menuBtn.classList.toggle('is-active');
         sidebar.classList.toggle('open');
         document.body.classList.toggle('sidebar-open');
+
+        if (isOpen) {
+          main.addEventListener('click', toggleMenu);
+        } else {
+          main.removeEventListener('click', toggleMenu);
+        }
       }
 
       if (menuBtn && sidebar) {
