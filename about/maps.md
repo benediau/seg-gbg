@@ -15,6 +15,14 @@ Mechanisms behind differing migration strategies will be questioned in behaviour
 
 Telemetry will provide a wealth of movement data from streams across Europe with a particular focus on migration timings and residency vs. anadromy. Using in stream PIT antenna systems we will be able to closely monitor movement within streams and analyse differences between individuals, for example whether there is a sex bias in migrants, or if age at first migration differs between countries. 
 
+<p class="sponsors">
+  <a href="https://formas.se/">
+    <img alt="" src="https://user-images.githubusercontent.com/96004332/149924302-a5e85e43-f5f8-4b2f-b1d3-dc389238b59d.png" />
+  </a>
+  <a href="https://www.ices.dk/Pages/default.aspx">
+    <img alt="" src="https://user-images.githubusercontent.com/96004332/149924529-7370b8e2-2ef1-4db1-91a0-7f7f60acadc6.png" />
+  </a>
+</p>    
 
 ---
 
