@@ -3,7 +3,7 @@ members:
     role: project lead
     image: "https://user-images.githubusercontent.com/96004332/149917699-970b9eed-01b8-4930-a1f8-9aec38e80209.jpg"
     excerpt: "Professor Johan Höjesjö leads the Salmonid Ecology Group (SEG)."
-    description: "He has been working on behavioural variation, habitat preference and migratory behaviour in salmonids in various contexts for over 20 years. He is also co-chairing the ICES working group [WGTRUTTA](https://www.ices.dk/community/groups/Pages/WGTRUTTA.aspx) and is responsible for two in-depth courses; [Conservation biology in aquatic environments](https://www.gu.se/studera/hitta-utbildning/naturvard-i-vattenmiljoer-bio283) and the master course [Stream Ecology and Fish conservation](https://www.gu.se/studera/hitta-utbildning/ekologi-och-fiskevard-i-rinnande-vatten-bio566) at the [University of Gothenburg](http://www.gu.se)."
+    description: "He has been working on behavioural variation, habitat preference and migratory behaviour in salmonids in various contexts for over 20 years. He is also co-chairing the ICES working group [WGTRUTTA](https://www.ices.dk/community/groups/Pages/WGTRUTTA.aspx){:target='_blank'}{:rel='noopener noreferrer'} and is responsible for two in-depth courses; [Conservation biology in aquatic environments](https://www.gu.se/studera/hitta-utbildning/naturvard-i-vattenmiljoer-bio283){:target='_blank'}{:rel='noopener noreferrer'} and the master course [Stream Ecology and Fish conservation](https://www.gu.se/studera/hitta-utbildning/ekologi-och-fiskevard-i-rinnande-vatten-bio566){:target='_blank'}{:rel='noopener noreferrer'} at the [University of Gothenburg](http://www.gu.se){:target='_blank'}{:rel='noopener noreferrer'}."
     email: ""
 
   - name: Magnus Lovén Wallerius

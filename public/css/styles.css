@@ -216,7 +216,7 @@ body.sidebar-open main {
 }
 
 .page {
-  padding: 1rem;
+  padding: 1rem 1rem 4rem;
 
   width: 100%;
   max-width: 40rem;
@@ -228,6 +228,13 @@ body.sidebar-open main {
   color: inherit;
   text-decoration: none;
 }
+
+@media (hover: hover) {
+  .posts .post .post-title a:hover {
+    text-decoration: underline;
+  }
+}
+
 
 .posts .post .post-title {
   margin: 1.5rem 0 0;
@@ -242,6 +249,74 @@ body.sidebar-open main {
 
 .posts .post p {
   margin: .75rem 0;
+}
+
+.sponsors {
+  display: flex;
+  align-items: center;
+}
+
+.sponsors img {
+  display: block;
+  width: auto;
+  max-width: 200px;
+  height: auto;
+  max-height: 100px;
+}
+
+.sponsors a:not(:last-child) {
+  margin-right: 2rem;
+}
+
+.publications-details summary {
+  margin: 0 0 1rem;
+
+  line-height: 2;
+
+  cursor: pointer;
+}
+
+.publications-details summary::marker {
+  font-size: 0.75rem;
+  margin-bottom: 1.25rem;
+}
+
+.publications-year {
+  font-size: 1.25rem;
+
+  line-height: 1.375;
+  
+  vertical-align: middle;
+}
+
+.publications-list {
+  list-style: none;
+}
+
+.publications-item {}
+
+.publications-title {
+  font-weight: 700;
+  
+  color: inherit;
+
+  text-decoration: none;
+}
+
+.publications-journal {
+  color: #666;
+
+  font-size: 1rem;
+}
+
+.publications-authors {
+
+}
+
+@media (hover: hover) {
+  .publications-title:hover {
+    text-decoration: underline;
+  }
 }
 
 .team-member {}
@@ -274,6 +349,10 @@ body.sidebar-open main {
 .team-member .team-member-body {
   margin-left: 1rem;
   width: 100%;
+}
+
+.team-member .team-member-body a {
+  color: inherit;
 }
 
 @media (max-width: 30rem) {
