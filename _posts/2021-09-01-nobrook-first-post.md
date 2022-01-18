@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NOBROOK autumn 2021
+title: NOBROOK Autumn 2021
 categories: nobrook
 ---
 
