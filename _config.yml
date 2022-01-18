@@ -2,8 +2,8 @@
 title:               'Salmonid Ecology Group'
 tagline:             'University of Gothenburg'
 description:         'In SEG we study dispersal patterns and ecology in salmonids.'
-url:                 'https://benediau.github.io'
-baseurl:             '/seg-gbg'
+url:                 'https://seggothenburg.com'
+baseurl:             '/'
 paginate:            5
 permalink:           pretty
 excerpt_separator:   <!--more-->
