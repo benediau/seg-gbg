@@ -20,11 +20,13 @@ order: 2
       </div>
     {% endif %}
     <div class="team-member-body">
-      {% if team_member.excerpt != '' %}
-        <p>{{ team_member.excerpt }}</p>
-      {% endif %}
-      {% if team_member.description != '' %}
-        <p>{{ team_member.description }}</p>
+      {% assign excerpt = team_member.excerpt | strip %}  
+      {% if excerpt != "" and excerpt != nil and excerpt != blank %}
+        {{ excerpt | markdownify }}
+      {% endif %} 
+      {% assign description = team_member.description | strip %}
+      {% if description != "" and description != nil and description != blank %}
+        {{ description | markdownify }}
       {% endif %}
     </div>
   </div>
