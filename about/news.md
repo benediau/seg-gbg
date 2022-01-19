@@ -25,3 +25,7 @@ order: 5
   </section>
   {% endfor %}
 </div>
+
+
+
+<a class="twitter-timeline" href="https://twitter.com/seg_gbg">Tweets by TwitterDev</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
