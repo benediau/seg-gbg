@@ -13,6 +13,11 @@ Sea trout are a valuable migratory species that provides both economic and ecosy
 This project will examine smolt production potential with the aim to produce a standardised method for assessing productivity and reveal associations with habitat quality. Smolt traps will be run in streams across the sea trouts natural range to give estimates of juvenile densities. Each stream will be habitat mapped in detail including and combined with juvenile density data to create a predictive model. 
 Mechanisms behind differing migration strategies will be questioned in behavioural and physiological studies, in particular offspring of long and short distance migrants will be compared. When sea trout return from the marine environment they can migrate upstream a few hundred metres or many kilometres, this research will reveal whether the there are differences in the offspring related to variation in migration distance of the parents.  
 
+<p>
+    <img src="https://user-images.githubusercontent.com/96004332/150122386-568745c4-b91e-4d09-856c-dca3ab7856c8.jpg" width="60%" alt>
+    <em>Antenna at the lower end of Haga Å</em>
+</p>
+
 Telemetry will provide a wealth of movement data from streams across Europe with a particular focus on migration timings and residency vs. anadromy. Using in stream PIT antenna systems we will be able to closely monitor movement within streams and analyse differences between individuals, for example whether there is a sex bias in migrants, or if age at first migration differs between countries. 
 
 <p class="sponsors">
