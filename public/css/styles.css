@@ -257,6 +257,26 @@ body.sidebar-open main {
   margin: .75rem 0;
 }
 
+.video-container {
+  position: relative;
+
+  margin: 2rem 0;
+  padding-bottom: 56.25%;
+
+  height: 0;
+}
+
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  
+  display: block;
+
+  width: 100%;
+  height: 100%;
+}
+
 .sponsors {
   display: flex;
   align-items: center;

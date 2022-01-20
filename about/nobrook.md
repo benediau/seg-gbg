@@ -44,13 +44,11 @@ The overall aim of the NOBROOK project is to develop new methods for removal of 
 </p>
 <p>To aim with WP4 is therefore to establish to which extent invasive brook trout can act as a functional host of FPM, and examine how this in turn affects the functionality of native brown trout as the main host for the glochidia larvae of the FPM, both direct and indirect. 
 </p> 
-</details>
+</details> 
 
- &nbsp;&nbsp; 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dfq0yNJo-J8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
- &nbsp;&nbsp; 
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/Dfq0yNJo-J8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 <p class="sponsors">
   <a href="https://www.naturvardsverket.se/">
