@@ -15,7 +15,6 @@ Mechanisms behind differing migration strategies will be questioned in behaviour
 
 <p>
     <img src="https://user-images.githubusercontent.com/96004332/150122386-568745c4-b91e-4d09-856c-dca3ab7856c8.jpg" width="60%" alt>
-    <em>Antenna at the lower end of Haga Å</em>
 </p>
 
 Telemetry will provide a wealth of movement data from streams across Europe with a particular focus on migration timings and residency vs. anadromy. Using in stream PIT antenna systems we will be able to closely monitor movement within streams and analyse differences between individuals, for example whether there is a sex bias in migrants, or if age at first migration differs between countries. 
