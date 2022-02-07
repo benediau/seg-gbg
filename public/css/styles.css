@@ -270,7 +270,7 @@ body.sidebar-open main {
   position: absolute;
   top: 0;
   left: 0;
-  
+
   display: block;
 
   width: 100%;
@@ -531,3 +531,4 @@ tbody tr:nth-child(odd) th {
   color: #717171;
   background-color: #f9f9f9;
 }
+
