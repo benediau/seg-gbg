@@ -288,6 +288,7 @@ body.sidebar-open main {
   max-width: 200px;
   height: auto;
   max-height: 100px;
+  border-radius: 0;
 }
 
 .sponsors a:not(:last-child) {
