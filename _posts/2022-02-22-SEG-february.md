@@ -6,6 +6,7 @@ categories: news
 
 The SEG is hard at work! 
 <!--more-->
+
 Last week Niklas nailed his thesis titled <em>“Parasite host interaction between the freshwater  pearl mussel (Margaritifera margaritifera) and brown trout (Salmo trutta), the impact from glochidia larvae on the host”</em> at Zoologen. His defense will take place on the 11th of March. 
 
 <div class="row">
@@ -18,13 +19,13 @@ Last week Niklas nailed his thesis titled <em>“Parasite host interaction betwe
 
 Interesting bachelor and master projects are underway. Pernilla is working hard on identifying the insects caught at the study sites connected to the NOBROOK project, data which she will use as the basis for her thesis about the effects on the benthic invertebrate composition as a result of the brook and brown trout interactions. 
 
-<p>
-    <img src="https://user-images.githubusercontent.com/96004332/155167686-de762c7a-52c9-434e-a26a-af635dde4ec8.jpg" width="60%" alt>
-</p>
-
-<p>
-    <img src="https://user-images.githubusercontent.com/96004332/155167855-96bc7169-601d-42d5-b643-87294be94297.jpg" width="60%" alt>
-</p>
+<div class="row">
+  <div class="column">
+    <img src="ttps://user-images.githubusercontent.com/96004332/155167686-de762c7a-52c9-434e-a26a-af635dde4ec8.jpg" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://user-images.githubusercontent.com/96004332/155167855-96bc7169-601d-42d5-b643-87294be94297.jpg" alt="Forest" style="width:100%">
+  </div>
 
 Matilda is busy with data analysis and report writing for her thesis work on juvenile sea trout investigating behavioral differences between offspring of long and short distance migrants. Sebastian is gearing up to start his field work soon. 
 
