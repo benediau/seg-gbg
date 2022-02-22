@@ -21,10 +21,10 @@ Interesting bachelor and master projects are underway. Pernilla is working hard 
 
 <div class="row">
   <div class="column">
-    <img src="ttps://user-images.githubusercontent.com/96004332/155167686-de762c7a-52c9-434e-a26a-af635dde4ec8.jpg" alt="Snow" style="width:100%">
+    <img src="https://user-images.githubusercontent.com/96004332/155167686-de762c7a-52c9-434e-a26a-af635dde4ec8.jpg" alt="Snow" style="width:50%">
   </div>
   <div class="column">
-    <img src="https://user-images.githubusercontent.com/96004332/155167855-96bc7169-601d-42d5-b643-87294be94297.jpg" alt="Forest" style="width:100%">
+    <img src="https://user-images.githubusercontent.com/96004332/155167855-96bc7169-601d-42d5-b643-87294be94297.jpg" alt="Forest" style="width:50%">
   </div>
 
 Matilda is busy with data analysis and report writing for her thesis work on juvenile sea trout investigating behavioral differences between offspring of long and short distance migrants. Sebastian is gearing up to start his field work soon. 
