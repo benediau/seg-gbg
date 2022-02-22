@@ -52,25 +52,6 @@ SEG members and up-and-coming bachelor and master students have been back at the
 
 Madeleine spent two weeks in Tromsø this month of the course “Fish-migrations; science, management and politics” at [UiT](https://en.uit.no/startsida), with a heavy focus on learning about various methods of telemetry and how to track fish movement (while she was there she was lucky enough to see some northern lights as well!). Now she’s focusing on planning the upcoming field season including setting up a smolt trap for the MAPS project in Haga Å. 
 
-
-<div class="swiper">
-  <div class="swiper-wrapper">
-    <div class="swiper-slide">
-      <img src="https://user-images.githubusercontent.com/96004332/155170336-402d787c-7d6e-4230-877f-895dc68589d5.jpeg" />
-    </div>
-    <div class="swiper-slide">
-      <img src="https://user-images.githubusercontent.com/96004332/155169071-8189acf9-d855-463d-bf3e-d5d158925b19.jpg" />
-    </div>
-    <div class="swiper-slide">
-      <img src="https://user-images.githubusercontent.com/96004332/155169234-677ceed8-2cde-41de-bb86-62d3074d5353.jpg" />
-    </div>
-    <div class="swiper-slide">
-  </div>
-  <div class="swiper-button-prev"></div>
-  <div class="swiper-button-next"></div>
-  <div class="swiper-pagination"></div>
-</div>
-
 More newsletters to come about SEG activities, so stay tuned!
 
 
