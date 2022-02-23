@@ -7,7 +7,7 @@ categories: news
 The SEG is hard at work! 
 <!--more-->
 
-Last week Niklas nailed his thesis titled <em>“Parasite host interaction between the freshwater  pearl mussel (Margaritifera margaritifera) and brown trout (Salmo trutta), the impact from glochidia larvae on the host”</em> at Zoologen. His defense will take place on the 11th of March. 
+Last week Niklas nailed his thesis titled <em>“Parasite host interaction between the freshwater  pearl mussel (Margaritifera margaritifera) and brown trout (Salmo trutta), the impact from glochidia larvae on the host”</em> at Zoologen. His [defense](https://www.gu.se/evenemang/niklas-wengstrom-parasite-host-interaction-between-the-freshwater-pearl-mussel-margaritifera-margaritifera-and-brown-trout-salmo-trutta-the-impact) will take place on the 11th of March. 
 
 <div class="row">
   <div class="column">
