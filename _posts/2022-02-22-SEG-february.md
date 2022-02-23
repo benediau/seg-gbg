@@ -18,7 +18,7 @@ Last week Niklas nailed his thesis titled <em>“Parasite host interaction betwe
   </div>
 </div>
 
-Interesting bachelor and master projects are underway. Pernilla is working hard on identifying the insects caught at the study sites connected to the NOBROOK project, data which she will use as the basis for her thesis about the effects on the benthic invertebrate composition as a result of the brook and brown trout interactions. 
+Interesting bachelor and master projects are underway. Pernilla is working hard on identifying the insects caught at the study sites connected to the [NOBROOK](https://seggothenburg.com/about/nobrook/) project, data which she will use as the basis for her thesis about the effects on the benthic invertebrate composition as a result of the brook and brown trout interactions. 
 
 <div class="row">
   <div class="column">
@@ -45,7 +45,7 @@ SEG members and up-and-coming bachelor and master students have been back at the
     </div>
   </div>
 
-Madeleine spent two weeks in Tromsø this month on the course “Fish-migrations; science, management and politics” at [UiT](https://en.uit.no/startsida), with a heavy focus on learning about various methods of telemetry and how to track fish movement (while she was there she was lucky enough to see some northern lights as well!). Now she’s focusing on planning the upcoming field season including setting up a smolt trap for the MAPS project in Haga Å. 
+Madeleine spent two weeks in Tromsø this month on the course “Fish-migrations; science, management and politics” at [UiT](https://en.uit.no/startsida), with a heavy focus on learning about various methods of telemetry and how to track fish movement (while she was there she was lucky enough to see some northern lights as well!). Now she’s focusing on planning the upcoming field season including setting up a smolt trap for the [MAPS](https://seggothenburg.com/about/maps/) project in Haga Å. 
 
 <div class="row">
     <div class="column">
