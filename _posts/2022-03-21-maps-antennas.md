@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Stationary antennas for MAPS
-categories: news
+categories: maps
 ---
 
 The antennas are working!
