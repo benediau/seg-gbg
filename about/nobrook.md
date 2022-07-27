@@ -3,13 +3,10 @@ layout: page
 title: NOBROOK
 order: 4
 ---
-
-
+Read more about the project! Please check out the <a href="https://seggothenburg.com/public/isbe-2022.pdf">pamphlet for ISBE 2022 </a>
 
 
 ## *Evaluating removal methods of the invasive Brook trout and effects of removal on the ecosystem*
-<a href="https://seggothenburg.com/public/isbe-2022.pdf">Pamphlet for ISBE 2022 </a>
-
 
 <p>The overall aim of the NOBROOK project is to develop new methods for removal of the invasive brook trout and to evaluate the effect of removal on ecosystems. Through establishing several control populations of known phenotypical distribution and a combination of brown trout in allopatry and in sympatry with brook trout be able to compare and test different removal methods across species and phenotypical traits. The response and recovery of the ecosystem after removal will we examined by investigating the composition of benthic invertebrates and fish diets as well as the potential impact presence of brook trout may have on the interaction between brown trout and the endangered freshwater pearl mussel. </p>
 
