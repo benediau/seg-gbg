@@ -3,7 +3,7 @@ layout: page
 title: NOBROOK
 order: 4
 ---
-Read more about the project! Please check out the <a href="https://seggothenburg.com/public/isbe-2022.pdf">pamphlet for ISBE 2022 </a>
+Read more about the project! Please check out the <a href="https://seggothenburg.com/public/isbe-2022.pdf">pamphlet for ISBE 2022 </a> for more details about the current status of the project. 
 
 
 ## *Evaluating removal methods of the invasive Brook trout and effects of removal on the ecosystem*
