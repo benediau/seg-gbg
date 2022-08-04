@@ -3,7 +3,7 @@ layout: post
 title: NOBROOK Spring 2022
 categories: nobrook
 ---
-The spring has been a busy time for the NOBROOK porject! <!--more--> Each of the experimental stream sections have been habitat mapped this spring and each stretch has been given a score of the quality of trout habitat (THS). This data will allow us to determine the quality of habitat being utilized when we combine this with the telemetry data we have collected through the fall of last year, late winter and early spring of this year. 
+The spring has been a busy time for the NOBROOK project! <!--more--> Each of the experimental stream sections have been habitat mapped this spring and each stretch has been given a score of the quality of trout habitat (THS). This data will allow us to determine the quality of habitat being utilized when we combine this with the telemetry data we have collected through the fall of last year, late winter and early spring of this year. 
 
 <div class="row">
   <div class="column">
