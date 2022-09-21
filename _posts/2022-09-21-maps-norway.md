@@ -9,7 +9,7 @@ SEG heads North.
 <!--more-->
 
 The team headed back to Northern Norway in September to begin sampling juvenile sea trout. Nestled in the mountains of Kjerringøy is a highly productive lake system called Fjærvatn where we have established 3 sites. Each site was habitat mapped and sampled for benthic invertebrates, this data will be used with other sites across Europe to develop tools to predict smolt productivity.
-With help from Lars Rønning from ([NTNU](https://www.ntnu.no/)) we caught and PIT tagged 155 young trout across the 3 sites. In the spring (after the ice thaws) we will put up 3 stationary antenna and track their movement out to sea. Until then we have plenty of morphometric and behavioural data to analyse, looking for differences between populations of varying distance to sea.
+With help from Lars Rønning from [NTNU](https://www.ntnu.no/) we caught and PIT tagged 155 young trout across the 3 sites. In the spring (after the ice thaws) we will put up 3 stationary antenna and track their movement out to sea. Until then we have plenty of morphometric and behavioural data to analyse, looking for differences between populations of varying distance to sea.
 
 <div class="swiper">
   <div class="swiper-wrapper">
