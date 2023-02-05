@@ -5,7 +5,36 @@ members:
     excerpt: "Professor Johan Höjesjö leads the Salmonid Ecology Group (SEG)."
     description: "He has been working on behavioural variation, habitat preference and migratory behaviour in salmonids in various contexts for over 20 years. He is also co-chairing the ICES working group [WGTRUTTA](https://www.ices.dk/community/groups/Pages/WGTRUTTA.aspx){:target='_blank'}{:rel='noopener noreferrer'} and is responsible for two in-depth courses; [Conservation biology in aquatic environments](https://www.gu.se/studera/hitta-utbildning/naturvard-i-vattenmiljoer-bio283){:target='_blank'}{:rel='noopener noreferrer'} and the master course [Stream Ecology and Fish conservation](https://www.gu.se/studera/hitta-utbildning/ekologi-och-fiskevard-i-rinnande-vatten-bio566){:target='_blank'}{:rel='noopener noreferrer'}."
     email: ""
+    
+  - name: Benedikte Austad
+    role: project lead
+    image: "https://user-images.githubusercontent.com/96004332/148999473-ed4df877-1d98-40d2-92ca-0dfcbdc154c1.jpg"
+    excerpt: "I am the PhD student responsible for the NOBROOK project studying ecosystem effects of the invasive Brook trout in Sweden before and after removal. I have my master’s degree in marine biology and limnology from the University of Oslo. "
+    description: ""
+    email: ""
 
+  - name: Madeleine Berry
+    role: project lead
+    image: "https://user-images.githubusercontent.com/96004332/148966353-f96c023c-b577-4464-a508-5fbbbe410ddc.jpg"
+    excerpt: "I am the PhD student responsible for the MAPS project studying migration patterns in juvenile sea trout. "
+    description: "My work involves multiple stream sites across Europe and is in close connection with WGTRUTTA a workgroup within ICES. My previous work also centered around juvenile salmonids, specifically their interactions with hydro-renewable energies. "
+    email: ""
+    
+  - name: Mattias Larsson
+    role: project lead
+    image: "https://user-images.githubusercontent.com/96004332/150104682-5a915745-6329-405c-9d90-00b43f85cc4c.jpg"
+    excerpt: "Part time (50 %) PhD student focusing on interactions between invasive alien species and native species in running fresh water, especially brook trout, signal crayfish, brown trout and grayling. Works part time (50 %) at [Swedish angler association](https://www.sportfiskarna.se/jonkoping){:target='_blank'}{:rel='noopener noreferrer'} as project manager with stream restoration, environmental monitoring and stream mapping."
+    description: ""
+    email: ""
+    
+  - name: Pernilla Hansson
+    role: Masters Student
+    image: "https://user-images.githubusercontent.com/96004332/149006814-c8bbf99d-e769-43a3-87a9-155c66182aba.jpg"
+    excerpt: ""
+    description: "I studied biology at the University of Gothenburg, finishing my bachelor thesis on the survival of migrating salmon smolt in 2018. I am currently doing my master thesis on the effects on benthic invertebrates as a result of the interaction between brown trout and the invasive brook trout."
+    email: ""
+
+alumni:
   - name: Magnus Lovén Wallerius
     role: project lead
     image: "https://user-images.githubusercontent.com/96004332/146191774-f3b1b703-e741-4973-861c-bd4b3295ee38.jpg"
@@ -19,35 +48,7 @@ members:
     excerpt: "I am a PhD student (50%) and I study the interaction between the freshwater pearl mussels <em>Margaritifera margaritifera</em> and their fish host Atlantic salmon <em>Salmo salar</em> and brown trout <em>S. trutta</em>, with focus on the impact the mussel larvae have on its host physiology and behavior."
     description: ""
     email: ""
-    
-  - name: Madeleine Berry
-    role: project lead
-    image: "https://user-images.githubusercontent.com/96004332/148966353-f96c023c-b577-4464-a508-5fbbbe410ddc.jpg"
-    excerpt: "I am the PhD student responsible for the MAPS project studying migration patterns in juvenile sea trout. "
-    description: "My work involves multiple stream sites across Europe and is in close connection with WGTRUTTA a workgroup within ICES. My previous work also centered around juvenile salmonids, specifically their interactions with hydro-renewable energies. "
-    email: ""
-    
-  - name: Benedikte Austad
-    role: project lead
-    image: "https://user-images.githubusercontent.com/96004332/148999473-ed4df877-1d98-40d2-92ca-0dfcbdc154c1.jpg"
-    excerpt: "I am the PhD student responsible for the NOBROOK project studying ecosystem effects of the invasive Brook trout in Sweden before and after removal. I have my master’s degree in marine biology and limnology from the University of Oslo. "
-    description: ""
-    email: ""
-    
-  - name: Mattias Larsson
-    role: project lead
-    image: "https://user-images.githubusercontent.com/96004332/150104682-5a915745-6329-405c-9d90-00b43f85cc4c.jpg"
-    excerpt: "Part time (50 %) PhD student focusing on interactions between invasive alien species and native species in running fresh water, especially brook trout, signal crayfish, brown trout and grayling. Works part time (50 %) at [Swedish angler association](https://www.sportfiskarna.se/jonkoping){:target='_blank'}{:rel='noopener noreferrer'} as project manager with stream restoration, environmental monitoring and stream mapping."
-    description: ""
-    email: ""
-    
-  - name: Matilda Ahvenainen
-    role: project lead
-    image: "https://user-images.githubusercontent.com/96004332/148698332-1e81c770-9beb-4264-9364-61939240f524.jpg"
-    excerpt: ""
-    description: "I am currently doing a masters in conservation biology at the University of Gothenburg. I am writing my thesis together with the SEG with focus on investigating if migration patterns correlate with behavior in the offspring of sea trout. Outside of the office I enjoy climbing and hiking!"
-    email: ""
-    
+
   - name: Sebastian Sandberg
     role: Masters Student
     image: "https://user-images.githubusercontent.com/96004332/146357009-d55bb7ca-d695-4903-bba6-bb6d9afe132c.jpg"
@@ -55,9 +56,9 @@ members:
     description: "The first part of my project is a literature review for the European research group SMOLTRACK. The aim of my literature review is to identify knowledge gaps on thermal and hydraulic influences on salmonid smolt run-timing, freshwater growth and survival, both during downstream migration and marine survival. I will also describe the thermal range of salmon in the eastern Altantic. The second part of my project is a field study on brown trout smolt in Lillån, a small tributary to lake Vättern. The aim here is to Investigate smolt survival and selection pressure when passing through a manmade lake during their migration from Lillån to lake Vättern."
     email: ""
     
-  - name: Pernilla Hansson
-    role: Masters Student
-    image: "https://user-images.githubusercontent.com/96004332/149006814-c8bbf99d-e769-43a3-87a9-155c66182aba.jpg"
+  - name: Matilda Ahvenainen
+    role: project lead
+    image: "https://user-images.githubusercontent.com/96004332/148698332-1e81c770-9beb-4264-9364-61939240f524.jpg"
     excerpt: ""
-    description: "I studied biology at the University of Gothenburg, finishing my bachelor thesis on the survival of migrating salmon smolt in 2018. I am currently doing my master thesis on the effects on benthic invertebrates as a result of the interaction between brown trout and the invasive brook trout."
+    description: "I am currently doing a masters in conservation biology at the University of Gothenburg. I am writing my thesis together with the SEG with focus on investigating if migration patterns correlate with behavior in the offspring of sea trout. Outside of the office I enjoy climbing and hiking!"
     email: ""
