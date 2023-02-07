@@ -78,6 +78,7 @@ body.sidebar-open main {
   max-width: var(--sidebar-width);
 
   height: 100vh;
+  max-height: -webkit-fill-available;
 
   z-index: 100;
 
@@ -104,14 +105,19 @@ body.sidebar-open main {
   margin-bottom: 3rem;
 }
 
+@media (min-width: 48rem) {
+  .sidebar-nav {
+    margin-bottom: 2rem 0;
+  }  
+}
+
 .sidebar-nav ul {
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
+  justify-content: center;
   align-items: start;
 
   width: 80%;
-  height: 100%;
 }
 
 .sidebar-nav ul,
@@ -122,8 +128,8 @@ body.sidebar-open main {
   width: 80%;
 }
 
-.sidebar-nav li {
-  margin: 0;
+.sidebar-nav li:not(:last-child) {
+  margin-bottom: 2rem;
 }
 
 .sidebar-nav-item {
@@ -147,7 +153,7 @@ body.sidebar-open main {
 
 @media (min-width: 48rem) {
   .sidebar-nav-item {
-    font-size: 1.75rem;
+    font-size: 1.5rem;
   }
 }
 
