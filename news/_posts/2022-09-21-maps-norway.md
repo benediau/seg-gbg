@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MAPS in Norway
-categories: maps
+tags: news maps
 ---
 
 SEG heads North.

@@ -1,8 +1,9 @@
 ---
 layout: post
 title: MAPS Autumn 2021
-categories: maps
+tags: news maps
 ---
+
 MAPS begins!
 
 The autumn field season sees the MAPS project get underway in Sweden. Here we have chosen a Haga å, a small stream running through the town of Billdal, Gothenburg, as our main study system for the coming years. <!--more--> Our first task was to construct stationary PIT antennas throughout the system to monitor fish movement. After much trial and error, I am pleased to say there are now three functional antennas covering a wide stretch of the stream with more hopefully to be added in 2022.

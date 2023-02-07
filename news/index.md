@@ -1,11 +1,11 @@
 ---
 layout: page
 title: News
-order: 5
+order: 3
 ---
 
 <div class="posts">
-  {% for post in site.posts %}
+  {% for post in site.tags.news %}
   <section class="post">
     <header>
       <h4 class="post-title">

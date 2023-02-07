@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SEG February Newsletter
-categories: news
+tags: news
 ---
 
 The SEG is hard at work! 

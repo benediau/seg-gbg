@@ -1,7 +1,7 @@
 ---
 layout: post
 title: NOBROOK Autumn 2021
-categories: nobrook
+tags: news nobrook
 ---
 
 The initial field work for the NOBROOK project has begun! 

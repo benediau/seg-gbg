@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New year for MAPS
-categories: maps
+tags: news maps
 ---
 
 A new year for MAPS with lots of exciting work in the pipeline! Plans for a habitat mapping workshop, setting up new stationary antennas and fieldwork in sunny Portugal.

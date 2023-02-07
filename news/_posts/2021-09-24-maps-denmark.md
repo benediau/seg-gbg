@@ -1,8 +1,9 @@
 ---
 layout: post
 title: MAPS in Denmark
-categories: maps
+tags: news maps
 ---
+
 MAPS goes international!
 
 Denmark is the first stop on the MAPS European tour, seeing us working in the stream Gudsø in the region of Kolding. <!--more--> Over the course of a few days and with invaluable assistance from the Technical Univeristy of Denmark ([DTU](https://www.dtu.dk/)) we were able to tag approximately 200 fish in the Danish system, half just a few hundred metres from where the stream empties into Kolding fjord and half several kilometres upstream. And now we wait! After the spring migration season hopefully we see that some of our fish have moved out of the system and into the fjord to mature.

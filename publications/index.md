@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Publications
-order: 6
+order: 5
 ---
-
 
 {% assign years = site.data.publications.papers | map: "year" | uniq | sort | reverse %}
 
