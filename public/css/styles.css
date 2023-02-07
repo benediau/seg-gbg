@@ -78,7 +78,6 @@ body.sidebar-open main {
   max-width: var(--sidebar-width);
 
   height: 100vh;
-  max-height: -webkit-fill-available;
 
   z-index: 100;
 
@@ -160,8 +159,6 @@ body.sidebar-open main {
 .social-media {
   display: flex;
   justify-content: center;
-
-  flex: none;
 
   color: #262626;
 }
