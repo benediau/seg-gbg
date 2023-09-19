@@ -21,19 +21,22 @@ Big thanks to Sara, Carlos, André and Esmeralda for all their help!
       <img src="https://github.com/benediau/seg-gbg/assets/96004332/8ede9c59-529f-4a71-9314-a027bdf9f7b9" />
     </div>
     <div class="swiper-slide">
-      <img src="https://user-images.githubusercontent.com/96004332/191457944-00d4b7b5-290d-48bb-b06b-1bf2c701394f.jpeg" />
+      <img src="https://github.com/benediau/seg-gbg/assets/96004332/b5ca6697-3375-4a6f-92fe-713e47124854" />
     </div>
     <div class="swiper-slide">
-      <img src="https://user-images.githubusercontent.com/96004332/191458052-55a20b40-c30d-40ac-bd6d-6a750f058fd4.jpeg" />
+      <img src="https://github.com/benediau/seg-gbg/assets/96004332/2a56d69e-4387-47aa-a1de-fa3ec57d56c1" />
     </div>
     <div class="swiper-slide">
-      <img src="https://user-images.githubusercontent.com/96004332/191458136-1abe4f5f-45ef-4a74-a052-b2a243f61d01.jpeg" />
+      <img src="https://github.com/benediau/seg-gbg/assets/96004332/ee5d46f9-4271-43e6-8ae5-cfba1e86a569" />
     </div>
     <div class="swiper-slide">
-      <img src="https://user-images.githubusercontent.com/96004332/191458225-d6fa3177-7e6b-43d1-a9c0-fd186a871b29.jpeg" />
+      <img src="https://github.com/benediau/seg-gbg/assets/96004332/7e7334c4-82a3-419c-b693-5846aa8f3608" />
     </div>
     <div class="swiper-slide">
-      <img src="https://user-images.githubusercontent.com/96004332/191458444-163e6446-0be0-4792-b1de-c906882187e9.jpeg" />
+      <img src="https://github.com/benediau/seg-gbg/assets/96004332/9243e5f9-a966-4d08-93e8-e12dcbbce68b" />
+    </div>
+    <div class="swiper-slide">
+      <img src="https://github.com/benediau/seg-gbg/assets/96004332/9243e5f9-a966-4d08-93e8-e12dcbbce68b" />
     </div>
   </div>
   <div class="swiper-button-prev"></div>
