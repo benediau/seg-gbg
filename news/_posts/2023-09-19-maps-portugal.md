@@ -38,7 +38,7 @@ Big thanks to Sara, Carlos, André and Esmeralda for all their help!
       <img src="https://github.com/benediau/seg-gbg/assets/96004332/9243e5f9-a966-4d08-93e8-e12dcbbce68b" />
     </div>
     <div class="swiper-slide">
-      <img src="https://github.com/benediau/seg-gbg/assets/96004332/9243e5f9-a966-4d08-93e8-e12dcbbce68b" />
+      <img src="https://github.com/benediau/seg-gbg/assets/96004332/acb1f4ce-2847-483f-b399-7eee7245bdc9" />
     </div>
   </div>
   <div class="swiper-button-prev"></div>
