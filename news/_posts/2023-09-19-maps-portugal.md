@@ -4,9 +4,11 @@ title: MAPS in Portugal
 tags: news maps
 ---
 
-In September the MAPS project headed to Portugal to join the team from [MARE](https://www.mare-centre.pt/en) for their annual salmonid sampling.
+MAPS heads south!
 
 <!--more-->
+
+In September the MAPS project headed to Portugal to join the team from [MARE](https://www.mare-centre.pt/en) for their annual salmonid sampling.
 
 Electrofishing surveys were carried out in over 20 sites in the Minho and Lima river basins. These regions are particularly interesting for salmonid migration research as they are the southern limit for anadromous salmonids. During the fieldwork all trout, salmon and sea lamprey were caught and measured and salmonids >10cm were PIT tagged. Next spring a smolt trap will be installed in Minho and we can see if any of the tagged individuals migrate out to sea.
 
