@@ -29,23 +29,10 @@ Here we can see some of the commonly used indicators:
   <img src="https://github.com/benediau/seg-gbg/assets/96004332/e374c214-35f2-4632-bacf-09ccc1effd96" />
 </figure>
 
+<a href="enlarged.html" target="_blank">
+     <img src="[photos/photo-name.jpg](https://github.com/benediau/seg-gbg/assets/96004332/e374c214-35f2-4632-bacf-09ccc1effd96)" />
+</a>
 
-<img src="https://github.com/benediau/seg-gbg/assets/96004332/e374c214-35f2-4632-bacf-09ccc1effd96" class="img" alt="">
-
-
-.img:hover{
-    color: #424242; 
-  -webkit-transition: all .3s ease-in;
-  -moz-transition: all .3s ease-in;
-  -ms-transition: all .3s ease-in;
-  -o-transition: all .3s ease-in;
-  transition: all .3s ease-in;
-  opacity: 1;
-  transform: scale(1.15);
-  -ms-transform: scale(1.15); /* IE 9 */
-  -webkit-transform: scale(1.15); /* Safari and Chrome */
-
-}
 
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
