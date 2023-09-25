@@ -25,14 +25,6 @@ Here we can see some of the commonly used indicators:
   </div>
 </div>
 
-<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(https://github.com/benediau/seg-gbg/assets/96004332/e374c214-35f2-4632-bacf-09ccc1effd96)">
-  <img src="https://github.com/benediau/seg-gbg/assets/96004332/e374c214-35f2-4632-bacf-09ccc1effd96" />
-</figure>
-
-<a href="enlarged.html" target="_blank">
-     <img src="https://github.com/benediau/seg-gbg/assets/96004332/e374c214-35f2-4632-bacf-09ccc1effd96" />
-</a>
-
 
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
