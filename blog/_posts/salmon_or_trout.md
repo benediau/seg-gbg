@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Salmon or trout?
-tags: blog
+tags: blog news
 ---
 
 Ever wondered...
