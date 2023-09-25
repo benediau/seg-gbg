@@ -30,7 +30,7 @@ Here we can see some of the commonly used indicators:
 </figure>
 
 <a href="enlarged.html" target="_blank">
-     <img src="[photos/photo-name.jpg](https://github.com/benediau/seg-gbg/assets/96004332/e374c214-35f2-4632-bacf-09ccc1effd96)" />
+     <img src="https://github.com/benediau/seg-gbg/assets/96004332/e374c214-35f2-4632-bacf-09ccc1effd96" />
 </a>
 
 
