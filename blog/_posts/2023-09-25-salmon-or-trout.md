@@ -15,13 +15,13 @@ Here we can see some of the commonly used indicators:
 
 <div class="row">
   <div class="column">
-    <img src="https://github.com/benediau/seg-gbg/assets/96004332/25a58c1e-9b7e-4397-b193-d9662f8ee7f8" />
+    <img src="https://github.com/benediau/seg-gbg/assets/96004332/21cae585-9cc8-43e6-b60d-610de146736e" />
   </div>
 </div>
 
 <div class="row">
   <div class="column">
-    <img src="https://github.com/benediau/seg-gbg/assets/96004332/6472e044-e915-4e96-b480-2a94186f9f34" />
+    <img src="https://github.com/benediau/seg-gbg/assets/96004332/e374c214-35f2-4632-bacf-09ccc1effd96" />
   </div>
 </div>
 
