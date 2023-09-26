@@ -25,28 +25,36 @@ Here we can see some of the commonly used indicators:
   </div>
 </div>
 
-
-
 <figure class="zoom" onmousemove="zoom(event)" style="background-image: url(https://github.com/benediau/seg-gbg/assets/96004332/e374c214-35f2-4632-bacf-09ccc1effd96)">
   <img src="https://github.com/benediau/seg-gbg/assets/96004332/e374c214-35f2-4632-bacf-09ccc1effd96" />
 </figure>
-
-figure.zoom {
-  background-position: 50% 50%;
-  position: relative;
-  width: 500px;
-  overflow: hidden;
-  cursor: zoom-in;
-}
-figure.zoom img:hover {
-  opacity: 0;
-}
-figure.zoom img {
-  transition: opacity .5s;
-  display: block;
-  width: 100%;
-}
-
+<style>
+  figure.zoom {
+    background-position: 50% 50%;
+    position: relative;
+    width: 500px;
+    overflow: hidden;
+    cursor: zoom-in;
+  }
+  figure.zoom img:hover {
+    opacity: 0;
+  }
+  figure.zoom img {
+    transition: opacity .5s;
+    display: block;
+    width: 100%;
+  }
+</style>
+<script>
+  function zoom(e){
+    var zoomer = e.currentTarget;
+    e.offsetX ? offsetX = e.offsetX : offsetX = e.touches[0].pageX
+    e.offsetY ? offsetY = e.offsetY : offsetX = e.touches[0].pageX
+    x = offsetX/zoomer.offsetWidth*100
+    y = offsetY/zoomer.offsetHeight*100
+    zoomer.style.backgroundPosition = x + '% ' + y + '%';
+  }
+</script>
 
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
