@@ -8,7 +8,7 @@ Sea Trout, Essential Facts, and Significance!
 
 <!--more-->
 
-The brown trout *Salmo trutta* is a prominent salmonid species with a wide distribution across Northern and Western Europe, spanning from the White Sea to the Mediterranean and encompassing the entire Baltic Sea region. The anadromous form of brown trout, known as the sea trout, has a latitude from northern Scandinavia to northern Africa. Sea trout migrates from its native river or streams to the sea, where it forages until reaching sexual maturity, and then returns to its home river for spawning.
+The brown trout, *Salmo trutta*, is a prominent salmonid species with a wide distribution across Northern and Western Europe, spanning from the White Sea to the Mediterranean and encompassing the entire Baltic Sea region. The anadromous form of brown trout, known as the sea trout, has a latitude from northern Scandinavia to northern Africa. Sea trout migrates from its native river or streams to the sea, where it forages until reaching sexual maturity, and then returns to its home river for spawning.
 
 Sea trout differ from their close relatives, the salmon, in that sea trout are found in smaller streams and tributaries to larger rivers along the entire coast, and exhibit a more complex life history. It does not migrate as much as salmon and spends most of its life cycle in the sea and coastal waters. However, it's worth noting that certain populations of sea trout, especially those in the southern Baltic, undertake longer migrations to reach open waters.
 
