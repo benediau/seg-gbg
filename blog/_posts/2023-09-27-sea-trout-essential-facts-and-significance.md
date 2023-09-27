@@ -22,3 +22,5 @@ Sea trout is one of the two most important salmonids in the Baltic Sea. Despite 
 Sea trout have historically ranked second only to Atlantic salmon in national fisheries assessment programs and management priorities. As sea trout and other dispersed fish species fall under EU policy areas, such as the Common Fisheries Policy (CFP) and the Marine Strategy Framework Directive (MSFD), it becomes imperative to enhance methods for assessing and monitoring stock status. This holistic approach ensures the conservation and sustainable management of this valuable species in the Baltic Sea and beyond.
 
 *Written by Ali Khari, Master's student with the SEG.*
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
