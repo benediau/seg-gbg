@@ -41,11 +41,36 @@ This allowed for us to have eight different enclosures where we placed different
 
 Within the stream sections we created a gradient ranging from a “best” part of the enclosure upstream and the “worst” downstream, with a total of four different shelters. The upstream habitat had coarser substrate and more structures as well as presumably access to more invertebrates for the fish as we would put these in the buffer zones. We used portable antennas to assess which fish was inhabiting the best shelter upstream the most, i.e. holding the best position and most likely being the most dominant/best competitor of the group. 
 
-<div class="row">
-  <div class="column">
-    <img src="https://github.com/benediau/seg-gbg/assets/96004332/d77f089d-faff-4215-9686-79c3dd4b64a3" />
-  </div>
-</div> 
+<figure class="zoom" onmousemove="zoom(event)" style="background-image: url(https://github.com/benediau/seg-gbg/assets/96004332/d77f089d-faff-4215-9686-79c3dd4b64a3)">
+  <img src="https://github.com/benediau/seg-gbg/assets/96004332/d77f089d-faff-4215-9686-79c3dd4b64a3" />
+</figure>
+<style>
+  figure.zoom {
+    background-position: 50% 50%;
+    position: relative;
+    width: 500px;
+    overflow: hidden;
+    cursor: zoom-in;
+  }
+  figure.zoom img:hover {
+    opacity: 0;
+  }
+  figure.zoom img {
+    transition: opacity .5s;
+    display: block;
+    width: 100%;
+  }
+</style>
+<script>
+  function zoom(e){
+    var zoomer = e.currentTarget;
+    e.offsetX ? offsetX = e.offsetX : offsetX = e.touches[0].pageX
+    e.offsetY ? offsetY = e.offsetY : offsetX = e.touches[0].pageX
+    x = offsetX/zoomer.offsetWidth*100
+    y = offsetY/zoomer.offsetHeight*100
+    zoomer.style.backgroundPosition = x + '% ' + y + '%';
+  }
+</script>
 
 
 Additionally, each fish underwent several tests of cognition prior to entering the stream channels at a different lab facility where we could carefully monitor their movements and solution to tasks via camera footage. 
