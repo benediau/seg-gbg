@@ -58,9 +58,9 @@ When they were done here, tagged and measured they were ready to enter the main 
 </div> 
 
 
-We the allowed for fish to interact freely for ten days under which we filmed them at several occasions during the morning, day evening and night, as well as tracked them with both stationary and portable antennas. The behavioural interactions will be assessed from the video data, the antenna data has already given us valuable data on the dominance status and the social organization of the fish within the enclosures under both high and low water conditions (this was changed during the ten day run). 
+We then allowed for fish to interact freely for ten days under which we filmed them at several occasions during the morning, day evening and night, as well as tracked them with both stationary and portable antennas. The behavioural interactions will be assessed from the video data, the antenna data has already given us valuable data on the dominance status and the social organization of the fish within the enclosures under both high and low water conditions (this was changed during the ten day run). 
 
-On the final day all the brown trout were sampled. They werw weighed, measured, their stomach content collected, muscle samples for isotope analysis were taken as well as brain samples for fatty acid analysis. Additionally, we took their otoliths in order to examine the occurrence of vaterite (abnormal calcite polymorph, see picture below where most of the otolith consists of this). 
+On the final day all the brown trout were sampled. They were weighed, measured, their stomach content collected, muscle samples for isotope analysis were taken as well as brain samples for fatty acid analysis. Additionally, we took their otoliths in order to examine the occurrence of vaterite (abnormal calcite polymorph, see picture below where most of the otolith consists of this). 
 
 <div class="row">
   <div class="column">
