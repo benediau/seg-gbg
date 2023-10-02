@@ -4,11 +4,11 @@ title: Spring and summer in Austria for NOBROOK
 tags: news nobrook
 ---
 
-This past May until August we finally ran the much anticipated experiments in the artificial stream channels in Lunz, Austria.
+This past May until August we finally ran the much anticipated experiments in the artificial stream channels in Lunz Am See, Austria!
 
 <!--more-->
 
-Early spring until fall of 2023 for the NOBROOK project has been dedicated to the collaborative experiments with previous SEG member and project leader Libor, who currently works at [Wassercluster Lunz](https://www.wcl.ac.at/index.php/en/). The facility we used for these experiments is situated with two separate stream channels where water from the nearby lake ran through and we could control parameters such as flow, water level and keep a somewhat constant temperature throughout the (sometimes very hot!) summer months. We subdivided each of these stream channels into four sections on each side, with buffer zones in between and at the beginning and end. 
+Early spring until fall of 2023 for the NOBROOK project has been dedicated to the collaborative experiments with previous SEG member and project leader Libor, who currently works at [Wassercluster Lunz](https://www.wcl.ac.at/index.php/en/). The facility we used for these experiments is situated with two separate stream channels where water from the nearby lake ran through and we could control parameters such as flow, water level and keep a somewhat constant temperature throughout the hot summer months. We subdivided each of these stream channels into four sections on each side, with buffer zones in between and at the beginning and end. 
 
 <div class="row">
   <div class="column">
