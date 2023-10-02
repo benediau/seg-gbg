@@ -48,7 +48,7 @@ Within the stream sections we created a gradient ranging from a “best” part 
 </div> 
 
 
-Additionally, each fish was underwent several tests of cognition prior to entering the stream channels at a different lab facility where we could carefully monitor their capabilities via camera footage. 
+Additionally, each fish underwent several tests of cognition prior to entering the stream channels at a different lab facility where we could carefully monitor their movements and solution to tasks via camera footage. 
 When they were done here, tagged and measured they were ready to enter the main experiment; the stream channels. 
 
 <div class="row">
