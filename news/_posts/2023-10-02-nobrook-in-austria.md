@@ -39,14 +39,13 @@ This allowed for us to have eight different enclosures where we placed different
   <div class="swiper-pagination"></div>
 </div>
 
-Within the stream sections we created a gradient ranging from a “best” part of the enclosure upstream and the “worst” downstream, with a total of four different shelters. The upstream habitat had coarser substrate and more structures as well as presumably access to more invertebrates for the fish as we would put these in the buffer zones. We used portable antennas to assess which fish was inhabiting the best shelter upstream the most, i.e. holding the best position and presumably being the most dominant/best competitor of the group. 
+Within the stream sections we created a gradient ranging from a “best” part of the enclosure upstream and the “worst” downstream, with a total of four different shelters. The upstream habitat had coarser substrate and more structures as well as presumably access to more invertebrates for the fish as we would put these in the buffer zones. We used portable antennas to assess which fish was inhabiting the best shelter upstream the most, i.e. holding the best position and most likely being the most dominant/best competitor of the group. 
 
 <div class="row">
   <div class="column">
     <img src="https://github.com/benediau/seg-gbg/assets/96004332/d77f089d-faff-4215-9686-79c3dd4b64a3" />
   </div>
 </div> 
-
 
 
 Additionally, each fish was underwent several tests of cognition prior to entering the stream channels at a different lab facility where we could carefully monitor their capabilities via camera footage. 
