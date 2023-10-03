@@ -8,7 +8,7 @@ This past May until August we finally ran the much anticipated experiments in th
 
 <!--more-->
 
-Early spring until fall of 2023 for the NOBROOK project has been dedicated to the collaborative experiments with previous SEG member and project leader Libor, who currently works at [Wassercluster Lunz](https://www.wcl.ac.at/index.php/en/). The facility we used for these experiments is situated with two separate stream channels where water from the nearby lake ran through and we could control parameters such as flow, water level and keep a somewhat constant temperature throughout the hot summer months. We subdivided each of these stream channels into four sections on each side, with buffer zones in between and at the beginning and end. 
+Early spring until fall of 2023 for the NOBROOK project has been dedicated to the collaborative experiments with previous SEG member and project leader Libor Závorka, who currently works at [Wassercluster Lunz](https://www.wcl.ac.at/index.php/en/). The facility we used for these experiments is situated with two separate stream channels where water from the nearby lake ran through and we could control parameters such as flow, water level and keep a somewhat constant temperature throughout the hot summer months. We subdivided each of these stream channels into four sections on each side, with buffer zones in between and at the beginning and end. 
 
 <div class="row">
   <div class="column">
@@ -83,7 +83,7 @@ When they were done here, tagged and measured they were ready to enter the main 
 </div> 
 
 
-We then allowed for fish to interact freely for ten days under which we filmed them at several occasions during the morning, day evening and night, as well as tracked them with both stationary and portable antennas. The behavioural interactions will be assessed from the video data, the antenna data has already given us valuable data on the dominance status and the social organization of the fish within the enclosures under both high and low water conditions (this was changed during the ten day run). 
+We then allowed for fish to interact freely for ten days under which we filmed them at several occasions during the morning, day, evening and night, as well as tracked them with both stationary and portable antennas. The behavioural interactions will be assessed from the video data, the antenna data has already given us valuable data on the dominance status and the social organization of the fish within the enclosures under both high and low water conditions (this was changed during the ten day run). 
 
 On the final day all the brown trout were sampled. They were weighed, measured, their stomach content collected, muscle samples for isotope analysis were taken as well as brain samples for fatty acid analysis. Additionally, we took their otoliths in order to examine the occurrence of vaterite (abnormal calcite polymorph, see picture below where most of the otolith consists of this). 
 
