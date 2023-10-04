@@ -27,12 +27,7 @@ members:
     description: ""
     email: ""
     
-  - name: Pernilla Hansson
-    role: Masters Student
-    image: "https://user-images.githubusercontent.com/96004332/149006814-c8bbf99d-e769-43a3-87a9-155c66182aba.jpg"
-    excerpt: ""
-    description: "I studied biology at the University of Gothenburg, finishing my bachelor thesis on the survival of migrating salmon smolt in 2018. I am currently doing my master thesis on the effects on benthic invertebrates as a result of the interaction between brown trout and the invasive brook trout."
-    email: ""
+ 
 
 alumni:
   - name: Magnus Lovén Wallerius
@@ -49,16 +44,10 @@ alumni:
     description: ""
     email: ""
 
-  - name: Sebastian Sandberg
+  - name: Pernilla Hansson
     role: Masters Student
-    image: "https://user-images.githubusercontent.com/96004332/146357009-d55bb7ca-d695-4903-bba6-bb6d9afe132c.jpg"
-    excerpt: "Master project with SEG and SMOLTRACK."
-    description: "The first part of my project is a literature review for the European research group SMOLTRACK. The aim of my literature review is to identify knowledge gaps on thermal and hydraulic influences on salmonid smolt run-timing, freshwater growth and survival, both during downstream migration and marine survival. I will also describe the thermal range of salmon in the eastern Altantic. The second part of my project is a field study on brown trout smolt in Lillån, a small tributary to lake Vättern. The aim here is to Investigate smolt survival and selection pressure when passing through a manmade lake during their migration from Lillån to lake Vättern."
-    email: ""
-    
-  - name: Matilda Ahvenainen
-    role: project lead
-    image: "https://user-images.githubusercontent.com/96004332/148698332-1e81c770-9beb-4264-9364-61939240f524.jpg"
+    image: "https://user-images.githubusercontent.com/96004332/149006814-c8bbf99d-e769-43a3-87a9-155c66182aba.jpg"
     excerpt: ""
-    description: "I am currently doing a masters in conservation biology at the University of Gothenburg. I am writing my thesis together with the SEG with focus on investigating if migration patterns correlate with behavior in the offspring of sea trout. Outside of the office I enjoy climbing and hiking!"
+    description: "I studied biology at the University of Gothenburg, finishing my bachelor thesis on the survival of migrating salmon smolt in 2018. I am currently doing my master thesis on the effects on benthic invertebrates as a result of the interaction between brown trout and the invasive brook trout."
     email: ""
+ 
