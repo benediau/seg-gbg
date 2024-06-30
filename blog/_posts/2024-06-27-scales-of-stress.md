@@ -18,7 +18,7 @@ But why is it important to understand how individuals differ in different stream
 
 Now we have established there is local variation in stress response within a stream we are keen to see what other differences there may be between individuals in different streams sections. We have ongoing work based on this and are hoping to uncover differences in behaviours like aggression and boldness as well as morphological characteristics such as fin size and body shape.
 
-
+*Written by Madeleine Berry, PhD student with the SEG.*
 
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
