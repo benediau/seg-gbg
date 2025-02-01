@@ -31,4 +31,8 @@ Various prey found in sea trout stomachs. *Photo: Karl Karlsson*
 </div> 
 Scanning of cormorant colonies. *Photo Magnus Lovén Wallerius*
 
+In 2025, we are planning to conduct an acoustic telemetry study to assess habitat use of sea trout smolt in an area with both eelgrass meadows and unvegetated sites. This study will increase the knowledge of how these habitats influence residence time and diel activity patterns of sea trout in coastal areas.
+
+We will also conduct a mark-recapture study, using passive fyke nets, in an area that contains both eelgrass meadows and unvegetated sites. Not only will we potentially recapture tagged sea trout and measure growth at sea, but also collect stomach content data of untagged sea trout to quantify prey choice in different habitats. In collaboration with 8-fjordar and SLU [SLU](https://www.slu.se/) we will also PIT-tag and measure other fish species to quantify the fish community and different tropic levels that would impact the trophic chain in the eelgrass meadows. By targeting and tagging more fish species in this area, we could also get a better understanding of how cormorant predation could limit the recovery of important fish species and their impact on eelgrass meadows.
+
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
