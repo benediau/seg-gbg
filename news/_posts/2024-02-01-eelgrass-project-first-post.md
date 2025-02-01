@@ -19,7 +19,7 @@ Field work during 2024. *Photos: Magnus Lovén Wallerius and Karl Karlsson*
 
 <div class="row">
   <div class="column">
-    <img src="https://github.com/user-attachments/assets/3bb33b9f-697c-4721-9b3a-892cb2cb1594" />
+    <img src="https://github.com/user-attachments/assets/6771011f-4006-4fcb-a047-4567f2063d11" />
   </div>
 </div> 
 Various prey found in sea trout stomachs. *Photo: Karl Karlsson*
