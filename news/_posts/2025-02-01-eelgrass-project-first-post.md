@@ -29,7 +29,7 @@ Various prey found in sea trout stomachs. *Photo: Karl Karlsson*
     <img src="https://github.com/user-attachments/assets/7fe71b4f-1cf9-4f12-afc2-4c1c4ec4da40" />
   </div>
 </div> 
-Scanning of cormorant colonies. *Photo Magnus Lovén Wallerius*
+Scanning of cormorant colonies. *Photo: Magnus Lovén Wallerius*
 
 In 2025, we are planning to conduct an acoustic telemetry study to assess habitat use of sea trout smolt in an area with both eelgrass meadows and unvegetated sites. This study will increase the knowledge of how these habitats influence residence time and diel activity patterns of sea trout in coastal areas.
 
