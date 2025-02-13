@@ -6,7 +6,7 @@ tags: blog news
 
 Why do fish behave the way they do, and...
 <!--more-->
-How do we measure behaviour?
+how do we measure behaviour?
 
 Studying behaviour in animals is challenging, we can’t simply ask a bird or a fish why they are acting in a certain way, so, we must come up with other methods to interpret behaviour. In SEG we have a wide range of projects focusing on salmonid behaviour and are always working to refine our methods. One aspect of behaviour we are particularly interested in is boldness. Boldness, sometimes referred to as ‘the propensity to engage in risky behaviour’, is a trait that varies widely between individuals and ecological contexts. Measuring boldness boils down to introducing an individual to something new and seeing how they react. In fish we largely see two strategies: freezing or interacting/moving. We can then use these responses to determine how shy or bold an individual is.
 
