@@ -12,6 +12,8 @@ I our recent [study](https://onlinelibrary.wiley.com/doi/10.1002/ece3.70995?af=R
 
 In our work, we've also discovered a fascinating link between personality traits and dietary choices: bolder brown trout tend to hold a higher trophic position. This suggests that their willingness to take risks might allow them access to different or more abundant food resources compared to less bold individuals. These results indicate that behavioral variation within a species can significantly influence how individuals adapt when new competition is introduced.
 
+PS. How did we know which fish were bold? Read about it [here](https://seggothenburg.com/blog/boldness-in-trout).
+
 
 *Written by Benedikte Austad, PhD student with the SEG.*
 
