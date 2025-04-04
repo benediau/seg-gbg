@@ -13,9 +13,9 @@ With their bright red markings with blue borders the brook trout (*Salvelinus fo
 
 <figure>
   <img
-    src="https://github.com/user-attachments/assets/a5c34742-ed33-4d7f-960d-ce20c17e3cba"
-    alt="Vessel in Göta River" />
-  <figcaption>A photo of the ship TUNA in Göta älv which has a length of 89 meters and a width of 13.35 meters. The vessel causes a lot of waves on certain locations in the river, esepcially closer to Lilla edet. Photo: Erik Fransson</figcaption>
+    src="/public/images/mitch1.jpg"
+    alt="Brook trout" />
+  <figcaption>Invasive brook trout caught for behavioral studies at Gothenburg University.</figcaption>
 </figure>
 
 
@@ -24,11 +24,12 @@ Brook trout in their native range represent a conservation concern with human mo
 In contrast to the decline in their native range, the North American native is a relative newcomer being introduced to Swedish and European water ways. Introduced in the late 1800’s, they have proliferated to the point of being considered one of Europe’s top invasive aquatic species (Savini et al. 2010). Of special concern is the effect on native brown trout having replaced brown trout in several boreal lakes of northern Sweden and reducing brown trout populations in many southern streams and lakes. This competition with brown trout impacts not only brown trout and their structural role in fresh and saltwater systems, but also the endangered freshwater pearl mussel (Margaritifera margaritifera). Freshwater pearl mussels in Swedish water ways require brown trout hosts for glochidia to parasitize for development and dispersal. Freshwater pearl mussel glochidia are not able to effectively parasitize the new (in evolutionary terms) brook trout and studies have found that encystment on brook trout gills often fails or results in smaller less viable juvenile mussels.
 
 
-<div class="row">
-  <div class="column">
-    <img src="https://github.com/user-attachments/assets/9f7cd8fb-85b6-4e10-be53-1adbae2e767e" />
-  </div>
-</div> 
+<figure>
+  <img
+    src="/public/images/mitch2.jpg"
+    alt="Life cycle" />
+  <figcaption>Simplified life cycle of freshwater pearl mussel in Swedish waterways.</figcaption>
+</figure>
 
 
 Success of brook trout in Swedish water ways is attributed to numerous factors such as early maturation, larger size at hatching and behavioral changes such as increased aggression and piscivory in nonnative systems. Further complications come from a ‘habitat disturbance paradox’, niche convergence resulting in more direct [competition with brown trout](https://seggothenburg.com/blog/invasive-species-interactions-diet-and-personality) and evolutionary mechanisms such as the enemy release hypothesis. The habitat disturbance paradox seen with brook trout is nonnative populations exhibiting increased tolerances to temperature changes and habitat disturbance that have resulted in extirpation in their native range. Enemy release hypothesis is the idea that invasive species are less impacted by enemies than native species; the parasitism of brown trout by freshwater pearl mussel but not brook trout frees brook trout from the fitness cost of co-existing with the mussel.
