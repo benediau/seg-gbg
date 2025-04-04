@@ -15,7 +15,7 @@ This, in turn, reduces their survival chances, as well as those of fish species 
   <img
     src="/public/images/erik1.jpeg"
     alt="Vessel in Göta River" />
-  <figcaption>A photo of the ship TUNA in Göta älv which has a length of 89 meters and a width of 13.35 meters. The vessel causes a lot of waves on certain locations in the river, esepcially closer to Lilla edet. Photo: Erik Fransson</figcaption>
+  <figcaption> A photo of the ship TUNA in Göta älv which has a length of 89 meters and a width of 13.35 meters. The vessel causes a lot of waves on certain locations in the river, esepcially closer to Lilla edet. Photo: Erik Fransson</figcaption>
 </figure>
 
 
