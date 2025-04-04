@@ -22,12 +22,12 @@ This, in turn, reduces their survival chances, as well as those of fish species 
 Boat-induced wake waves also increase the detachment of benthic invertebrates from substrates, particularly in simpler habitats with low structural complexity. Studies have also shown that the long-term effects of boat traffic waves lead to reduced biodiversity and changes in the food web (Gabel, 2012).
 
 
-<div class="row">
-  <div class="column">
-    <img src="https://github.com/user-attachments/assets/9f7cd8fb-85b6-4e10-be53-1adbae2e767e" />
-  </div>
-</div> 
-
+<figure>
+  <img
+    src="/public/images/erik2.jpeg"
+    alt="Atlantic sturgeon" />
+  <figcaption> How will boat waves affect the newly released Atlantic sturgeon in Göta älv? Photo: https://storensaterkomst.se/</figcaption>
+</figure>
 
 During the summer of 2024, 95 individuals of Atlantic sturgeon were released into the Göta River as part of the Sportfiskarna project [Störens återkomst](https://storensaterkomst.se/). This species had been extinct in the river for over 100 years due to overfishing, but with the approval of the County Administrative Board, juvenile individuals from the Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB) in Berlin were reintroduced into the river (Sportfiskarna, 2023).
 
