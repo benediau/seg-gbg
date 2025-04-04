@@ -13,7 +13,7 @@ This, in turn, reduces their survival chances, as well as those of fish species 
 
 <figure>
   <img
-    src="https://github.com/user-attachments/assets/9b8584a2-76ad-41c3-a43e-8fcd5268453c"
+    src="https://github.com/user-attachments/assets/a5c34742-ed33-4d7f-960d-ce20c17e3cba"
     alt="Vessel in Göta River" />
   <figcaption>A photo of the ship TUNA in Göta älv which has a length of 89 meters and a width of 13.35 meters. The vessel causes a lot of waves on certain locations in the river, esepcially closer to Lilla edet. Photo: Erik Fransson</figcaption>
 </figure>
@@ -24,7 +24,7 @@ Boat-induced wake waves also increase the detachment of benthic invertebrates fr
 
 <div class="row">
   <div class="column">
-    <img src="https://github.com/user-attachments/assets/b46361ae-30c5-41b9-8721-2fdd66995f6b" />
+    <img src="https://github.com/user-attachments/assets/9f7cd8fb-85b6-4e10-be53-1adbae2e767e" />
   </div>
 </div> 
 
