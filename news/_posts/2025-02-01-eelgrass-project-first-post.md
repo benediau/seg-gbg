@@ -16,6 +16,13 @@ In the autumn, we visited cormorant colonies around our sites to investigate pot
 </div> 
 Field work during 2024. *Photos: Magnus Lovén Wallerius and Karl Karlsson*
 
+<figure>
+  <img
+    src="https://github.com/user-attachments/assets/eab8dbe9-1af2-4072-9057-3fc0a0f17d39"
+    alt="Field work" />
+  <figcaption>Field work during 2024. Photos: Magnus Lovén Wallerius and Karl Karlsson</figcaption>
+</figure>
+
 
 <div class="row">
   <div class="column">
