@@ -44,3 +44,8 @@ This master thesis has just started and aims to carefully map and analyze the ri
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
+<div class="row">
+  <div class="column">
+    <img src="https://user-images.githubusercontent.com/96004332/159933727-f81bee65-b81a-4baa-9258-220c105b32d8.jpg" />
+  </div>
+</div>
